@@ -1,0 +1,14 @@
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\ConsoleApp1\bin\Debug\net6.0\Lektion3 klasser.exe
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\ConsoleApp1\bin\Debug\net6.0\Lektion3 klasser.deps.json
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\ConsoleApp1\bin\Debug\net6.0\Lektion3 klasser.runtimeconfig.json
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\ConsoleApp1\bin\Debug\net6.0\Lektion3 klasser.dll
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\ConsoleApp1\bin\Debug\net6.0\Lektion3 klasser.pdb
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\ConsoleApp1\obj\Debug\net6.0\Lektion3 klasser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\ConsoleApp1\obj\Debug\net6.0\Lektion3 klasser.AssemblyInfoInputs.cache
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\ConsoleApp1\obj\Debug\net6.0\Lektion3 klasser.AssemblyInfo.cs
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\ConsoleApp1\obj\Debug\net6.0\Lektion3 klasser.csproj.CoreCompileInputs.cache
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\ConsoleApp1\obj\Debug\net6.0\Lektion3 klasser.dll
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\ConsoleApp1\obj\Debug\net6.0\refint\Lektion3 klasser.dll
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\ConsoleApp1\obj\Debug\net6.0\Lektion3 klasser.pdb
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\ConsoleApp1\obj\Debug\net6.0\Lektion3 klasser.genruntimeconfig.cache
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\ConsoleApp1\obj\Debug\net6.0\ref\Lektion3 klasser.dll

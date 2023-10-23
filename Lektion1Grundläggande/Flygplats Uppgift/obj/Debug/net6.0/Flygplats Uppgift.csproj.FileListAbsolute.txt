@@ -1,0 +1,14 @@
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Flygplats Uppgift\obj\Debug\net6.0\Flygplats Uppgift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Flygplats Uppgift\obj\Debug\net6.0\Flygplats Uppgift.AssemblyInfoInputs.cache
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Flygplats Uppgift\obj\Debug\net6.0\Flygplats Uppgift.AssemblyInfo.cs
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Flygplats Uppgift\obj\Debug\net6.0\Flygplats Uppgift.csproj.CoreCompileInputs.cache
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Flygplats Uppgift\bin\Debug\net6.0\Flygplats Uppgift.exe
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Flygplats Uppgift\bin\Debug\net6.0\Flygplats Uppgift.deps.json
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Flygplats Uppgift\bin\Debug\net6.0\Flygplats Uppgift.runtimeconfig.json
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Flygplats Uppgift\bin\Debug\net6.0\Flygplats Uppgift.dll
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Flygplats Uppgift\bin\Debug\net6.0\Flygplats Uppgift.pdb
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Flygplats Uppgift\obj\Debug\net6.0\Flygplats Uppgift.dll
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Flygplats Uppgift\obj\Debug\net6.0\refint\Flygplats Uppgift.dll
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Flygplats Uppgift\obj\Debug\net6.0\Flygplats Uppgift.pdb
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Flygplats Uppgift\obj\Debug\net6.0\Flygplats Uppgift.genruntimeconfig.cache
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Flygplats Uppgift\obj\Debug\net6.0\ref\Flygplats Uppgift.dll

@@ -1,0 +1,14 @@
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion1Grundläggande\bin\Debug\net6.0\Lektion1Grundläggande.exe
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion1Grundläggande\bin\Debug\net6.0\Lektion1Grundläggande.deps.json
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion1Grundläggande\bin\Debug\net6.0\Lektion1Grundläggande.runtimeconfig.json
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion1Grundläggande\bin\Debug\net6.0\Lektion1Grundläggande.dll
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion1Grundläggande\bin\Debug\net6.0\Lektion1Grundläggande.pdb
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion1Grundläggande\obj\Debug\net6.0\Lektion1Grundläggande.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion1Grundläggande\obj\Debug\net6.0\Lektion1Grundläggande.AssemblyInfoInputs.cache
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion1Grundläggande\obj\Debug\net6.0\Lektion1Grundläggande.AssemblyInfo.cs
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion1Grundläggande\obj\Debug\net6.0\Lektion1Grundläggande.csproj.CoreCompileInputs.cache
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion1Grundläggande\obj\Debug\net6.0\Lektion1Grundläggande.dll
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion1Grundläggande\obj\Debug\net6.0\refint\Lektion1Grundläggande.dll
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion1Grundläggande\obj\Debug\net6.0\Lektion1Grundläggande.pdb
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion1Grundläggande\obj\Debug\net6.0\Lektion1Grundläggande.genruntimeconfig.cache
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion1Grundläggande\obj\Debug\net6.0\ref\Lektion1Grundläggande.dll

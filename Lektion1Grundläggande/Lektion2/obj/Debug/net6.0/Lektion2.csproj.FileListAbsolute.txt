@@ -1,0 +1,14 @@
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion2\bin\Debug\net6.0\Lektion2.exe
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion2\bin\Debug\net6.0\Lektion2.deps.json
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion2\bin\Debug\net6.0\Lektion2.runtimeconfig.json
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion2\bin\Debug\net6.0\Lektion2.dll
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion2\bin\Debug\net6.0\Lektion2.pdb
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion2\obj\Debug\net6.0\Lektion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion2\obj\Debug\net6.0\Lektion2.AssemblyInfoInputs.cache
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion2\obj\Debug\net6.0\Lektion2.AssemblyInfo.cs
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion2\obj\Debug\net6.0\Lektion2.csproj.CoreCompileInputs.cache
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion2\obj\Debug\net6.0\Lektion2.dll
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion2\obj\Debug\net6.0\refint\Lektion2.dll
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion2\obj\Debug\net6.0\Lektion2.pdb
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion2\obj\Debug\net6.0\Lektion2.genruntimeconfig.cache
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion2\obj\Debug\net6.0\ref\Lektion2.dll

@@ -1,0 +1,14 @@
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Uppgifter övningar\bin\Debug\net6.0\Uppgifter övningar.exe
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Uppgifter övningar\bin\Debug\net6.0\Uppgifter övningar.deps.json
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Uppgifter övningar\bin\Debug\net6.0\Uppgifter övningar.runtimeconfig.json
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Uppgifter övningar\bin\Debug\net6.0\Uppgifter övningar.dll
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Uppgifter övningar\bin\Debug\net6.0\Uppgifter övningar.pdb
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Uppgifter övningar\obj\Debug\net6.0\Uppgifter övningar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Uppgifter övningar\obj\Debug\net6.0\Uppgifter övningar.AssemblyInfoInputs.cache
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Uppgifter övningar\obj\Debug\net6.0\Uppgifter övningar.AssemblyInfo.cs
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Uppgifter övningar\obj\Debug\net6.0\Uppgifter övningar.csproj.CoreCompileInputs.cache
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Uppgifter övningar\obj\Debug\net6.0\Uppgifter övningar.dll
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Uppgifter övningar\obj\Debug\net6.0\refint\Uppgifter övningar.dll
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Uppgifter övningar\obj\Debug\net6.0\Uppgifter övningar.pdb
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Uppgifter övningar\obj\Debug\net6.0\Uppgifter övningar.genruntimeconfig.cache
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Uppgifter övningar\obj\Debug\net6.0\ref\Uppgifter övningar.dll

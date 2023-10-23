@@ -1,0 +1,14 @@
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\lektion4\bin\Debug\net6.0\lektion4KlasserObjektPolyArv.exe
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\lektion4\bin\Debug\net6.0\lektion4KlasserObjektPolyArv.deps.json
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\lektion4\bin\Debug\net6.0\lektion4KlasserObjektPolyArv.runtimeconfig.json
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\lektion4\bin\Debug\net6.0\lektion4KlasserObjektPolyArv.dll
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\lektion4\bin\Debug\net6.0\lektion4KlasserObjektPolyArv.pdb
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\lektion4\obj\Debug\net6.0\lektion4KlasserObjektPolyArv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\lektion4\obj\Debug\net6.0\lektion4KlasserObjektPolyArv.AssemblyInfoInputs.cache
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\lektion4\obj\Debug\net6.0\lektion4KlasserObjektPolyArv.AssemblyInfo.cs
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\lektion4\obj\Debug\net6.0\lektion4KlasserObjektPolyArv.csproj.CoreCompileInputs.cache
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\lektion4\obj\Debug\net6.0\lektion4KlasserObjektPolyArv.dll
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\lektion4\obj\Debug\net6.0\refint\lektion4KlasserObjektPolyArv.dll
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\lektion4\obj\Debug\net6.0\lektion4KlasserObjektPolyArv.pdb
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\lektion4\obj\Debug\net6.0\lektion4KlasserObjektPolyArv.genruntimeconfig.cache
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\lektion4\obj\Debug\net6.0\ref\lektion4KlasserObjektPolyArv.dll

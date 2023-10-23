@@ -1,0 +1,14 @@
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion1GrundläggandeWithMain\obj\Debug\net6.0\Lektion1GrundläggandeWithMain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion1GrundläggandeWithMain\obj\Debug\net6.0\Lektion1GrundläggandeWithMain.AssemblyInfoInputs.cache
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion1GrundläggandeWithMain\obj\Debug\net6.0\Lektion1GrundläggandeWithMain.AssemblyInfo.cs
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion1GrundläggandeWithMain\obj\Debug\net6.0\Lektion1GrundläggandeWithMain.csproj.CoreCompileInputs.cache
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion1GrundläggandeWithMain\bin\Debug\net6.0\Lektion1GrundläggandeWithMain.exe
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion1GrundläggandeWithMain\bin\Debug\net6.0\Lektion1GrundläggandeWithMain.deps.json
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion1GrundläggandeWithMain\bin\Debug\net6.0\Lektion1GrundläggandeWithMain.runtimeconfig.json
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion1GrundläggandeWithMain\bin\Debug\net6.0\Lektion1GrundläggandeWithMain.dll
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion1GrundläggandeWithMain\bin\Debug\net6.0\Lektion1GrundläggandeWithMain.pdb
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion1GrundläggandeWithMain\obj\Debug\net6.0\Lektion1GrundläggandeWithMain.dll
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion1GrundläggandeWithMain\obj\Debug\net6.0\refint\Lektion1GrundläggandeWithMain.dll
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion1GrundläggandeWithMain\obj\Debug\net6.0\Lektion1GrundläggandeWithMain.pdb
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion1GrundläggandeWithMain\obj\Debug\net6.0\Lektion1GrundläggandeWithMain.genruntimeconfig.cache
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Lektion1Grundläggande\Lektion1GrundläggandeWithMain\obj\Debug\net6.0\ref\Lektion1GrundläggandeWithMain.dll
