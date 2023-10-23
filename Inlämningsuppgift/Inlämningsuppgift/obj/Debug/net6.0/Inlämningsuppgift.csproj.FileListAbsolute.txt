@@ -1,0 +1,14 @@
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Inlämningsuppgift\Inlämningsuppgift\bin\Debug\net6.0\Inlämningsuppgift.exe
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Inlämningsuppgift\Inlämningsuppgift\bin\Debug\net6.0\Inlämningsuppgift.deps.json
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Inlämningsuppgift\Inlämningsuppgift\bin\Debug\net6.0\Inlämningsuppgift.runtimeconfig.json
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Inlämningsuppgift\Inlämningsuppgift\bin\Debug\net6.0\Inlämningsuppgift.dll
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Inlämningsuppgift\Inlämningsuppgift\bin\Debug\net6.0\Inlämningsuppgift.pdb
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Inlämningsuppgift\Inlämningsuppgift\obj\Debug\net6.0\Inlämningsuppgift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Inlämningsuppgift\Inlämningsuppgift\obj\Debug\net6.0\Inlämningsuppgift.AssemblyInfoInputs.cache
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Inlämningsuppgift\Inlämningsuppgift\obj\Debug\net6.0\Inlämningsuppgift.AssemblyInfo.cs
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Inlämningsuppgift\Inlämningsuppgift\obj\Debug\net6.0\Inlämningsuppgift.csproj.CoreCompileInputs.cache
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Inlämningsuppgift\Inlämningsuppgift\obj\Debug\net6.0\Inlämningsuppgift.dll
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Inlämningsuppgift\Inlämningsuppgift\obj\Debug\net6.0\refint\Inlämningsuppgift.dll
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Inlämningsuppgift\Inlämningsuppgift\obj\Debug\net6.0\Inlämningsuppgift.pdb
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Inlämningsuppgift\Inlämningsuppgift\obj\Debug\net6.0\Inlämningsuppgift.genruntimeconfig.cache
+C:\Users\bernt\OneDrive\Dokument\RepositorySKOLA\Inlämningsuppgift\Inlämningsuppgift\obj\Debug\net6.0\ref\Inlämningsuppgift.dll
